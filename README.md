@@ -1,2 +1,3 @@
 # firstgitproject
-this is a first project
+this is a first repository
+author-shekhar
